@@ -117,9 +117,9 @@ python main.py
 
 ![demo\_video](docs/demo_video.gif)
 
-## 🎥 Demonstração do Sistema
+## 🎥 Demonstração
 
-<img src="docs/demo.gif" alt="Demonstração do sistema de rastreamento" width="100%">
+<img src="docs/demo.gif" alt="Demonstração do sistema de visão computacional" width="700">
 
 
 ## 💾 Log de Rastreamento (opcional)
