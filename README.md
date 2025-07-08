@@ -1,4 +1,4 @@
-# 🐄 Sistema de Monitoramento Inteligente de Gado com Visão Computacional e IA
+# 🐄 Sistema de monitoramento de gado com visão computacional usando YOLOv8 + SORT
 
 Este projeto utiliza inteligência artificial (YOLOv8) e rastreamento com SORT + Kalman Filter para **monitorar em tempo real** animais como gado, cavalos, porcos e outros, a partir de vídeos gravados ou câmera ao vivo.
 
