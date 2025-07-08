@@ -1,0 +1,50 @@
+# Bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Saídas do projeto
+outputs/
+*.csv
+*.gif
+*.jpg
+*.png
+
+# Dados sensíveis ou pesados
+data/
+docs/demo_video.gif
+docs/frame_resultado.jpg
+
+# Arquivos de build
+dist/
+build/
+*.egg-info/
+
+# Modelos treinados e arquivos grandes
+*.pt
+*.onnx
+*.h5
+*.tflite
