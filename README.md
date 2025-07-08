@@ -117,13 +117,10 @@ python main.py
 
 ![demo\_video](docs/demo_video.gif)
 
-### 🐄 Detecção e ID no frame
+## 🎥 Demonstração do Sistema
 
-> *(Substituir por um screenshot da execução)*
+<img src="docs/demo.gif" alt="Demonstração do sistema de rastreamento" width="100%">
 
-![frame\_resultado](docs/frame_resultado.jpg)
-
----
 
 ## 💾 Log de Rastreamento (opcional)
 
