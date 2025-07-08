@@ -117,6 +117,11 @@ python main.py
 
 ![demo\_video](docs/demo_video.gif)
 
+## 🎥 Demonstração
+
+<img src="docs/demo_video.gif" width="100%">
+
+
 ### 🐄 Detecção e ID no frame
 
 > *(Substituir por um screenshot da execução)*
